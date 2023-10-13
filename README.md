@@ -14,8 +14,6 @@
 
 The Text Summarization Project is a Python application that allows users to generate summaries of long texts or articles using the BART model, a state-of-the-art transformer-based model. The project includes a graphical user interface (GUI) for ease of use and provides an efficient way to condense lengthy documents into concise summaries.
 
-![Screenshot of the GUI](gui-screenshot.png)
-
 ## Features
 
 - Summarize text using the BART model.
